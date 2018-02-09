@@ -47,7 +47,7 @@
     "lib": "lib"
   },
   "dependencies": {
-    "@feathersjs/transport-commons": "^3.2.0"
+    "@feathersjs/transport-commons": "^4.0.0"
   },
   "devDependencies": {
     "@feathersjs/commons": "^1.2.0",
